@@ -1,6 +1,0 @@
-framework module Pods_WorkspaceOrganizer {
-  umbrella header "Pods-WorkspaceOrganizer-umbrella.h"
-
-  export *
-  module * { export * }
-}
